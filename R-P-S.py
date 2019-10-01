@@ -1,5 +1,6 @@
 # Nathan Sharp
 # Rock Paper Scissors
+# added a comment
 #Variables
 import random
 
